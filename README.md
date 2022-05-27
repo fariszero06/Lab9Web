@@ -33,7 +33,7 @@ media="screen" />
 ```
 
 ## Outputnya:
-![Header](screenshot/header.png)
+![Header](screenshoot/header.png)
 
 ## 2. Footer
 Buat file baru dengan nama footer.php
@@ -51,7 +51,7 @@ Buat file baru dengan nama footer.php
 ```
 
 ## Outputnya:
-![Footer](screenshot/footer.png)
+![Footer](screenshoot/footer.png)
 
 ## 3. Home
 Buat file baru dengan nama home.php
@@ -126,7 +126,7 @@ $result = mysqli_query($conn, $sql);
 ```
 
 ## Outputnya:
-![Home](screenshot/home.png)
+![Home](screenshoot/home.png)
 
 ## 4. About
 Buat file baru dengan nama about.php
@@ -143,11 +143,11 @@ Buat file baru dengan nama about.php
 ```
 
 ## Outputnya:
-![About](screenshot/about.png)
+![About](screenshoot/about.png)
 
 ## Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
 ## Hasilnya
-![Tugas](screenshot/tugas.png)
+![Tugas](screenshoot/tugas.png)
