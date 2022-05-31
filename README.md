@@ -151,3 +151,7 @@ database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
 ## Hasilnya
 ![Tugas](screenshoot/tugas.png)
+
+
+## Tugas Praktikum 10
+https://github.com/fariszero06/Lab10Web.git
